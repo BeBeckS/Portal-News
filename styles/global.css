@@ -50,11 +50,16 @@ img {
     margin-inline: auto;
 }
 
+
+
 .content-tag {
     display: inline-block;
     background-color: var(--brand-color-dark);
+    padding: 4px 8px;
     border-radius: 4px;
     font: 500 10px/1.2 var(--font-famyli);
     text-transform: uppercase;
+    letter-spacing: 0.04em;
     padding: 4px 8px;
+    color: var(--text-color-primary)
 }
